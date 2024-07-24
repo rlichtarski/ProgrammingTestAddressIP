@@ -9,8 +9,8 @@ android {
     defaultConfig {
         applicationId = "com.example.programmingipaddresstest"
         minSdk = 24
-        //noinspection EditedTargetSdkVersion
-        targetSdk = 34
+        //noinspection ExpiredTargetSdkVersion,EditedTargetSdkVersion
+        targetSdk = 24
         versionCode = 1
         versionName = "1.0"
 
